@@ -16,3 +16,4 @@ public class Main {
         return "my string";
     }
 }
+// Token: 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
